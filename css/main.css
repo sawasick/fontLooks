@@ -1,0 +1,37 @@
+.notes{
+    background-color: #FFFF00;
+}
+.normal{
+    font-weight: normal;
+}
+.lighter{
+    font-weight: lighter;
+}
+.bold{
+    font-weight: bold;
+}
+.sans-serif{
+    font-family: sans-serif;
+}
+.serif{
+    font-family: serif;
+}
+.helvetica{
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+.yu-gothic{
+    font-family: Yu Gothic, 游ゴシック, YuGothic, 游ゴシック体;
+}
+.hiragino-kaku{
+    font-family: 'Hiragino Kaku Gothic ProN';
+}
+.hiragino-maru{
+    font-family: 'Hiragino Maru Gothic ProN';
+}
+.arial{
+    font-family: arial;
+}
+.meiryo{
+    font-family: meiryo;
+}
