@@ -1,3 +1,6 @@
+p{
+font-size: 10px;
+}
 .notes{
     background-color: #FFFF00;
 }
@@ -19,6 +22,9 @@
 .helvetica{
     font-family: 'Helvetica Neue', sans-serif;
 }
+.SanFrancisco{
+    font-family: -apple-system, BlinkMacSystemFont;
+}
 
 .yu-gothic{
     font-family: Yu Gothic, 游ゴシック, YuGothic, 游ゴシック体;
@@ -28,6 +34,9 @@
 }
 .hiragino-maru{
     font-family: 'Hiragino Maru Gothic ProN';
+}
+.SegoeUI{
+    font-family: 'Segoe UI';
 }
 .arial{
     font-family: arial;
