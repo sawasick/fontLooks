@@ -1,46 +1,67 @@
-p{
-font-size: 10px;
+html,
+body {
+	font-size: 16px;
+	line-height: 1.5;
 }
-.notes{
-    background-color: #FFFF00;
+body {
+	position: relative;
 }
-.normal{
-    font-weight: normal;
+.title {
+	text-align: center;
+	margin-top: 0;
 }
-.lighter{
-    font-weight: lighter;
+.footer-text {
+	position: absolute;
+	font-size: 90% !important;
+	margin: 0;
+	left: 50%;
+	transform: translateX(-50%);
+	-webkit-transform: translateX(-50%);
+	-ms-transform: translateX(-50%);
 }
-.bold{
-    font-weight: bold;
+p {
+	font-size: 10px;
 }
-.sans-serif{
-    font-family: sans-serif;
+.notes {
+	background-color: #ffff00;
 }
-.serif{
-    font-family: serif;
+.normal {
+	font-weight: normal;
 }
-.helvetica{
-    font-family: 'Helvetica Neue', sans-serif;
+.lighter {
+	font-weight: lighter;
 }
-.SanFrancisco{
-    font-family: -apple-system, BlinkMacSystemFont;
+.bold {
+	font-weight: bold;
+}
+.sans-serif {
+	font-family: sans-serif;
+}
+.serif {
+	font-family: serif;
+}
+.helvetica {
+	font-family: 'Helvetica Neue', sans-serif;
+}
+.SanFrancisco {
+	font-family: -apple-system, BlinkMacSystemFont;
 }
 
-.yu-gothic{
-    font-family: Yu Gothic, 游ゴシック, YuGothic, 游ゴシック体;
+.yu-gothic {
+	font-family: Yu Gothic, 游ゴシック, YuGothic, 游ゴシック体;
 }
-.hiragino-kaku{
-    font-family: 'Hiragino Kaku Gothic ProN';
+.hiragino-kaku {
+	font-family: 'Hiragino Kaku Gothic ProN';
 }
-.hiragino-maru{
-    font-family: 'Hiragino Maru Gothic ProN';
+.hiragino-maru {
+	font-family: 'Hiragino Maru Gothic ProN';
 }
-.SegoeUI{
-    font-family: 'Segoe UI';
+.SegoeUI {
+	font-family: 'Segoe UI';
 }
-.arial{
-    font-family: arial;
+.arial {
+	font-family: arial;
 }
-.meiryo{
-    font-family: meiryo;
+.meiryo {
+	font-family: meiryo;
 }
